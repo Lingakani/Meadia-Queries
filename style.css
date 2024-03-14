@@ -5,7 +5,7 @@
 }
 
 .head{
-    background-image: url(images/background.webp);
+    background-image: url(background.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
